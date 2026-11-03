@@ -1,0 +1,7 @@
+out/
+__pycache__/
+*.py[cod]
+generated-trees/*.dot
+generated-trees/*.svg
+.idea/
+*.iml
